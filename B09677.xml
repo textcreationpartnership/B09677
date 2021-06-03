@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal anagram carolus decundus rex angliæ ana -- [brace] lux elucesco regnis san' ardua. [brace] -- gram ... / J.P.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09677</idno><idno type="EEBO-CITATION">62369588</idno>
+  <idno type="VID">188081</idno>
+  <idno type="EEBO-PROQUEST">2248529589</idno>
+  
+            <idno type="STC">Wing P68A</idno>
+            <idno type="STC">ESTC R181380</idno>
+            <idno type="OCLC">62369588</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188081)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2854:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal anagram carolus decundus rex angliæ ana -- [brace] lux elucesco regnis san' ardua. [brace] -- gram ... / J.P.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nath. Thompson, at the entrance into the Old-Spring-Garden near Charing-Cross,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to J. P. Cf. Wing (2nd ed.).</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imperfect: broadside torn with some loss of print.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">English poetry --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:188081:1"/>
+            <head>THE ROYAL ANAGRAM. Carolus Secundus Rex Angliae,</head>
+            <head type="sub">
+               <hi>Ana</hi>—— LUX ELUCESCO REGNIS SAN' ARDUA. ——<hi>gram.</hi>
+            </head>
+            <lg>
+               <l>THat <hi>Humane Names</hi> from the <hi>Omniscient Club</hi>
+               </l>
+               <l>Of Providence receive their <hi>fatal Dub,</hi>
+               </l>
+               <l>Significative, and <hi>Ominous</hi> to be</l>
+               <l>Of th'<hi>Owners</hi> good or evil Destiny,</l>
+               <l>The <hi>Holy Volumes</hi> clearly do make out,</l>
+               <l>'Tis Infidelity there of to doubt.</l>
+               <l>My bashful <hi>Muse</hi> is conscious, that too high</l>
+               <l>She hath aspir'd, this <hi>Truth</hi> t'<hi>exemplifie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>:</hi>
+               </l>
+               <l>She's no <hi>Enthusiast,</hi> nor dares pretend</l>
+               <l>To <hi>Inspiration; Loyalty</hi>'s her <hi>End.</hi>
+               </l>
+               <l>T'evidence this, the <hi>Heavens</hi> did conspire</l>
+               <l>To dub You CHARLES; Behold, a <hi>Caelestial Fire;</hi>
+               </l>
+               <l>A <hi>Noon<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay Star</hi> appear'd, to vouch the truth</l>
+               <l>Of th' <hi>Ominous Name</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>he <hi>new-Christen'd Youth:</hi>
+               </l>
+               <l>In its <hi>An<gap reason="illegible" resp="#keyers" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>mizing</hi> it i<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>That i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> great <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>Lett<gap reason="illegible" resp="#keyers" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> into <hi>Order</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>LUX ELUCESCO RE<gap reason="illegible" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>S SAN' ARDUA;</l>
+               <l>Into our <hi>Native Language</hi> (if you please)</l>
+               <l>'Tis thus convertible with truth and ease,</l>
+               <l>I DO MY KINGDOMS ALL ILLUMINATE,</l>
+               <l>I SALVE THE DIFFICULTIES OF THE STATE.</l>
+               <l>O great <hi>Prophetick Truth!</hi> this <hi>Bonum Nomen</hi>
+               </l>
+               <l>Hath by experience prov'd our <hi>Bonum Omen.</hi>
+               </l>
+               <l>
+                  <hi>Vir tui Nominis,</hi> Dread Sir, You are,</l>
+               <l>Nothing more man'fest, if we may compare</l>
+               <l>The <hi>Salutiferous Events,</hi> issues plain</l>
+               <l>Of your transcendent <hi>Wisdom,</hi> glorious <hi>Reign:</hi>
+               </l>
+               <l>It is the Lustre of your <hi>Royal Rays</hi>
+               </l>
+               <l>Clears our <hi>Horizon,</hi> gives us <hi>Halcyon-days:</hi>
+               </l>
+               <l>'Tis your <hi>Illustrious presence</hi> keeps these <hi>Nations</hi>
+               </l>
+               <l>From <hi>Northern Fogs,</hi> and <hi>Southern Exhalations,</hi>
+               </l>
+               <l>And from th'effects of damn'd <hi>Associations.</hi>
+               </l>
+               <l>'Tis your discerning <hi>Wisdom,</hi> profound <hi>Reach,</hi>
+               </l>
+               <l>That hath so seasonably stopt the breach</l>
+               <l>Of ripe <hi>Rebellion,</hi> and so calmly laid</l>
+               <l>The <hi>Devil</hi> of <hi>Confusion,</hi> who assay'd</l>
+               <l>By's <hi>Machiavillian</hi> COOPER to unstave</l>
+               <l>The <hi>Vessel</hi> of the <hi>State.</hi> Oh <hi>Sovereign Salve!</hi>
+               </l>
+               <l>'Tis You that stopt its <hi>Leaks,</hi> and made it tite,</l>
+               <l>Not only fit for <hi>Service,</hi> but <hi>Delight:</hi>
+               </l>
+               <l>'Tis You, <hi>Terrestrial God,</hi> who is th'<hi>Incloser</hi>
+               </l>
+               <l>Of Him that is the Worlds <hi>All-wise Disposer.</hi>
+               </l>
+               <l>
+                  <hi>Noli me tangere,</hi> by a <hi>Divine Right,</hi>
+               </l>
+               <l>Is your just <hi>Motto,</hi> maugre all the spight</l>
+               <l>Of <hi>Acherontick Miscreants;</hi> All their <hi>Plots</hi>
+               </l>
+               <l>Serve but to render them the <hi>Devil's Sots.</hi>
+               </l>
+               <l>Their great <hi>Achit'phel</hi>'s <hi>Shaft</hi> was (as they thought)</l>
+               <l>Always <hi>Fatiferous</hi> never wing'd for nought;</l>
+               <l>He from his Quiver it no sooner took,</l>
+               <l>But your discerning <hi>Eye</hi> espy'd the <hi>Hook</hi>
+               </l>
+               <l>Under that specious <hi>White</hi> of <hi>Babels Whore</hi>
+               </l>
+               <l>(Their trite old <hi>Bawd)</hi> your Royal side to gore.</l>
+               <l>The deepest <hi>Strat'gems</hi> of that <hi>Hellish Crew</hi>
+               </l>
+               <l>Could not stand undiscover'd before You;</l>
+               <l>But, <hi>Dagon-</hi>like, must fall before the <hi>Light</hi>
+               </l>
+               <l>Of th'irresistable lustre of your Sp'rit:</l>
+               <l>You've <hi>baffl'd Hell,</hi> and put <hi>Him</hi> to a stop</l>
+               <l>That of all the pack of <hi>Hell-hounds</hi> ran the <hi>top;</hi>
+               </l>
+               <l>Your <hi>Favours</hi> have th'effects of <hi>Judas</hi>'s Sop:</l>
+               <l>And may they always have that just Reward,</l>
+               <l>That deal so falsly with their Gracious Lord.</l>
+            </lg>
+            <byline>J.P.</byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Nath. Thompson,</hi> at the Entrance into the <hi>Old-Spring-Garden</hi> near <hi>Charing-Cross,</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
